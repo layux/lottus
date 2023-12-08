@@ -1,0 +1,5 @@
+name: lottus/http
+version: 0.1.0
+description: >-
+  HTTP foundations for the Lottus framework, a set of high-performance HTTP server components for Dart.
+
