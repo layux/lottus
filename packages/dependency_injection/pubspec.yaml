@@ -1,0 +1,5 @@
+name: lottus/dependency_injection
+version: 0.1.0
+description: >-
+  A full-featured library to provide dependency injection to Dart based applications used by Lottus Framework.
+
