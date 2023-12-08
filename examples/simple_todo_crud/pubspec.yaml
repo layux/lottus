@@ -1,0 +1,5 @@
+name: simple_todo_crud
+version: 0.1.0
+description: >-
+  A simple CRUD application using Lottus Framework for TODOs classic example.
+
